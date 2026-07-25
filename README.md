@@ -1,4 +1,4 @@
-# Khaata — Personal Expense Ledger (₹)
+# — Personal Expense Ledger (₹)
 
 A premium, dark-navy expense tracker for Indian Rupees, built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
